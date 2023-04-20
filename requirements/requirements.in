@@ -42,7 +42,7 @@ pyjwt>=2.4.0 # https://github.com/ansible/awx/security/dependabot/58
 pyparsing
 python3-saml==1.13.0
 python-dsv-sdk
-python-tss-sdk==1.0.0
+python-tss-sdk
 python-ldap>=3.4.0 # https://github.com/ansible/awx/security/dependabot/20
 pyyaml>=5.4.1  # minimum to fix https://github.com/yaml/pyyaml/issues/478
 receptorctl==1.2.3
